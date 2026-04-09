@@ -22,7 +22,7 @@ instance_type = var.my-instance-type
 
 tags = {
 
-Name = "MY-EC2-Instance-1"
+Name = "MY-EC2-Instance-2"
 
 }
 
